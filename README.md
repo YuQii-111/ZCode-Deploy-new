@@ -5,7 +5,6 @@ ZCode 人格部署工具 — 一键把 system prompt 整层换成你自己的越
 > **本仓库是 [zzooymc-source/ZCode-Deploy](https://github.com/zzooymc-source/ZCode-Deploy) 的修改版（fork）。**
 > 原项目提供了 ZCode system prompt 替换的原始实现；本仓库修复了
 > ZCode 2026-09-19 重新打包后补丁全部失效的问题，并补齐了校验与发布流程。
-> 改动明细见 [CHANGELOG.md](CHANGELOG.md)。
 
 ## 这是什么
 
