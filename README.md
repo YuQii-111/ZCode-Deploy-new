@@ -148,11 +148,6 @@ https://github.com/zzooymc-source/ZCode-Deploy
 | 验证手段 | 人工翻模型请求日志 | `verify-patch.cjs` 真正执行补丁后的函数 |
 | 发布流程 | 手动打包 | `build-release.ps1` 白名单打包 + SHA256 清单 |
 
-完整明细见 [CHANGELOG.md](CHANGELOG.md) 与 [修改记录.md](修改记录.md)。
-
-> 原仓库的许可证状态请在发布前自行核对。若原仓库带有 LICENSE 文件，
-> 请一并保留其版权声明，并按该许可证的要求分发本修改版。
-
 ## 发布到自己的仓库
 
 本目录已初始化为 git 仓库（分支 `main`），首次提交与推送：
